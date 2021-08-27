@@ -14,7 +14,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-#### Header 4
+# Enoch's First CS193 Homework
+- Relaxing class
+- Interesting topics
+- Helps with learning CS
 
 - Bulleted
 - List
